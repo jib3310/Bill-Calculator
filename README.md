@@ -30,7 +30,7 @@ Below are the functions that provided by this application.
 <img src = "Screenshot/eq1.5.png">
 
 </div>
-
+<hr>
 <div name = "percentage">
   <h3> Break down by percentage</h3>
 <p>1. Input the quantity of people and amount of the bill</p>
@@ -50,7 +50,7 @@ Below are the functions that provided by this application.
 
  
 </div>
-
+<hr>
 <div name = "ratio">
 
   <h3> Break down by ratio</h3>
@@ -74,7 +74,7 @@ Below are the functions that provided by this application.
 
  
 </div>
-
+<hr>
 <div name = "amount">
   <h3> Break down by amount</h3>
 <p>1. Input the quantity of people and amount of the bill</p>
@@ -101,7 +101,7 @@ Below are the functions that provided by this application.
 
   
 </div>
-
+<hr>
 <div name = "history">
    <h3> History</h3>
 <p>1. click on the check history button</p>
