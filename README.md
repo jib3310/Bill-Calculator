@@ -76,7 +76,7 @@ Below are the functions that provided by this application.
 </div>
 
 <div name = "amount">
-  <h3> Break down by ratio</h3>
+  <h3> Break down by amount</h3>
 <p>1. Input the quantity of people and amount of the bill</p>
 <img src = "Screenshot/a4.1.png">
 
@@ -103,7 +103,7 @@ Below are the functions that provided by this application.
 </div>
 
 <div name = "history">
-   <h3> Break down by ratio</h3>
+   <h3> History</h3>
 <p>1. click on the check history button</p>
 <img src = "Screenshot/h5.1.png">
 
